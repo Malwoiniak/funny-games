@@ -1,5 +1,5 @@
 # funny-games
-First little games. Created to play around with Python.
+> First little games. Created to play around with Python.
 
 ## Table of contents
 * [General info](#general-info)
